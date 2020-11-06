@@ -36,4 +36,4 @@ then do npm install the npm start
 5. click to deploy it
 6. And Boom i'm got Wrapper Online on Heroku
 
-# ![Wrapper Online](pages/img/logo.png)
+# ![Wrapper Really](pages/img/logo.png)
